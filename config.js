@@ -27,7 +27,7 @@ SESSION_ID: process.env.SESSION_ID || "enter your subzero md session id here",
 PREFIX: process.env.PREFIX || ".",
 // Enter Your Desired Prefix
 
-BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』",
+BOT_NAME: process.env.BOT_NAME || "『 Xee AI 』",
 // Enter Your Bot Name
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -42,16 +42,16 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",
 // Set Owner Name
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ",
+OWNER_NAME: process.env.OWNER_NAME || "Xee AI",
 // Set Footer
 
-DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Ms.Zee*",
 // add bot owner name   
  
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/YkJyMRb/mrfrankofc.jpg",
 // add img for alive msg
 
-LIVE_MSG: process.env.LIVE_MSG || "> [🎐] SᴜʙZᴇʀᴏ MD ɪs ᴏɴʟɪɴᴇ*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> [🎐] Zee ɪs ᴏɴʟɪɴᴇ*⚡",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
